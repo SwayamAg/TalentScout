@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.venv/
+.TalenScout/
+*.pyc
+.DS_Store
