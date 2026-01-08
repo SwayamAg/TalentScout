@@ -31,7 +31,7 @@ The system focuses on:
 ## 🎥 Project Preview (Demo)
 
 > 📌 **Demo Video:**  
-> *(Loom demo link will be added here)*
+> [Watch the demo video on Google Drive](https://drive.google.com/file/d/1oA0PWhOm9C4mDXy1nSvc1_Wm5ZyUKnqe/view?usp=sharing)
 
 ---
 
